@@ -13,6 +13,8 @@
     "@wppconnect-team/wppconnect": "^1.37.3",
     "axios": "^1.11.0",
     "dotenv": "^17.2.1",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "puppeteer": "^24.16.2",
+    "querystring": "^0.2.1"
   }
 }

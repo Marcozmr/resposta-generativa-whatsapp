@@ -191,7 +191,7 @@ async function processarMensagem(mensagemRecebida, context) {
 
     const msg = mensagemRecebida.toLowerCase().trim();
   
-    const saudacoes = ['olá','olá Boa Tarde','olá Boa noite','olá Bom dia ','oi Boa Tarde','oi Boa noite','oi Bom dia ' ,'oi', 'bom dia', 'boa tarde', 'boa noite', 'e aí', 'tudo bem'];
+    const saudacoes = ['ola','oi','olá','olá Boa Tarde','olá Boa noite','olá Bom dia ','oi Boa Tarde','oi Boa noite','oi Bom dia ' ,'oi', 'bom dia', 'boa tarde', 'boa noite', 'e aí', 'tudo bem'];
     const saudacaoEncontrada = saudacoes.find(saudacao => msg.includes(saudacao));
 
     if (saudacaoEncontrada) {

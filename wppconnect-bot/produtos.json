@@ -1,74 +1,182 @@
 [
   {
-    "nome": "CABEÇOTE P/ FRITADEIRA ÁGUA E ÓLEO CFZL-6 2500W STEVAN METAL",
-    "id": "1032464467",
-    "preco": 282.94,
+    "nome": "Assadeira Esteira Forma 35x35 Lisa Alumínio Forno Convector",
+    "id": "969753418",
+    "preco": 53.1,
+    "estoque": -1
+  },
+  {
+    "nome": "Cavalete Base Aço Inox Forno Convector Venancio Wictory",
+    "id": "976951394",
+    "preco": 1098.7,
     "estoque": 0
   },
   {
-    "nome": "Cabeçote Para Fritadeira Água e Óleo CFS-500W 220V",
-    "id": "1032464534",
-    "preco": 471.55,
-    "estoque": 0
+    "nome": "Cavalete Base Inox Para Forno Convector Wictory Progás Venâncio",
+    "id": "969753507",
+    "preco": 900,
+    "estoque": 4
   },
   {
-    "nome": "CABEÇOTE PARA FRITADEIRA ÁGUA E ÓLEO CFS-800W STEVAN METAL",
-    "id": "1032464538",
-    "preco": 660.22,
-    "estoque": 0
-  },
-  {
-    "nome": "CESTO PARA FRITADEIRA CFZL-21/18 STEVAN METAL",
-    "id": "1032464478",
-    "preco": 91.53,
-    "estoque": 0
-  },
-  {
-    "nome": "FRITADEIRA ELETRICA 2 CUBAS 10 LITROS 5000W STEVAN METAL",
-    "id": "969750706",
+    "nome": "Cavalete Base Para Forno Convector Preto Venancio Wictory",
+    "id": "969750200",
     "preco": 0,
     "estoque": 0
   },
   {
-    "nome": "FRITADEIRA ELETRICA 2 CUBAS 10 LITROS 5000W STEVAN METAL FRITADEIRA ELETRICA 2 CUBAS 10 LITROS 5000W STEVAN METAL:110V",
-    "id": "969750717",
+    "nome": "CAVALETE FORNO CONVECTOR TURBO WHP 80/120 WICTORY",
+    "id": "969750341",
     "preco": 0,
     "estoque": 0
   },
   {
-    "nome": "FRITADEIRA ELETRICA 2 CUBAS 6LTS STEVAN METAL",
-    "id": "1032464547",
-    "preco": 909.9,
-    "estoque": 0
-  },
-  {
-    "nome": "Fritadeira Elétrica 2 Cubas Aço Inox 220v 5000w 10 Litros",
-    "id": "969750722",
+    "nome": "Fogão Gourmet Gás 4 Bocas Forno Convector Analógico Wictory",
+    "id": "969750409",
     "preco": 0,
     "estoque": 0
   },
   {
-    "nome": "FRITADEIRA ELÉTRICA FZL-6 STEVAN METAL",
-    "id": "1032464488",
-    "preco": 639.44,
-    "estoque": 0
-  },
-  {
-    "nome": "Fritadeira Industrial A Gás 9 Litros 3 Cubas Aço Inox",
-    "id": "969749412",
+    "nome": "Fogão Gourmet Gás 4 Bocas Forno Convector Analógico Wictory - Vermelho",
+    "id": "969750456",
     "preco": 0,
     "estoque": 0
   },
   {
-    "nome": "Fritadeira Industrial Elétrica Zl-5 5L Aço Inoxidável 110V",
-    "id": "1032464525",
-    "preco": 730.88,
+    "nome": "FOGÃO GOURMET GÁS 4 BOCAS FORNO CONVECTOR ANALOGICO WICTORY COR:AMARELO",
+    "id": "969750462",
+    "preco": 0,
     "estoque": 0
   },
   {
-    "nome": "Fritadeira Industrial Elétrica Zl-6 6L Aço Inoxidável 220v",
-    "id": "1032464473",
-    "preco": 734.38,
+    "nome": "FOGÃO GOURMET GÁS 4 BOCAS FORNO CONVECTOR ANALOGICO WICTORY COR:AZUL",
+    "id": "969750438",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "FOGÃO GOURMET GÁS 4 BOCAS FORNO CONVECTOR ANALOGICO WICTORY COR:BRANCO",
+    "id": "969750445",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "FOGÃO GOURMET GÁS 4 BOCAS FORNO CONVECTOR ANALOGICO WICTORY COR:INOX",
+    "id": "969750451",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "FOGÃO GOURMET GÁS 4 BOCAS FORNO CONVECTOR ANALOGICO WICTORY COR:LARANJA",
+    "id": "969750423",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "FOGÃO GOURMET GÁS 4 BOCAS FORNO CONVECTOR ANALOGICO WICTORY COR:PRETO",
+    "id": "969750428",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "FOGÃO GOURMET GÁS 4 BOCAS FORNO CONVECTOR ANALOGICO WICTORY COR:VINHO",
+    "id": "969750433",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "Fogão Gourmet Gás 4 Bocas Forno Convector Digital Wictory",
+    "id": "969750399",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "Fogão Gourmet Gás 4 Bocas Forno Convector Digital Wictory - Cinza-claro",
+    "id": "969750404",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector  Wictory Elétrico Para Pão Inox Wcv-435",
+    "id": "969749788",
+    "preco": 2609,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector 5 Esteiras C/ Vapor Wictory Wcv535 + Base",
+    "id": "1032465119",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector 5 Esteiras S/ Vapor Wictory 535 + Base",
+    "id": "1032465124",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector 5 Esteiras S/ Vapor Wictory 535 + Base - Inox",
+    "id": "1032465129",
+    "preco": 6996.7,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector Elétrico Whp-80 220v Sem Cavalete Wictory",
+    "id": "969750333",
+    "preco": 0,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector Smart Basic Elétrico 4 Esteiras 220v",
+    "id": "975154200",
+    "preco": 2664.9,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector Smart Basic Elétrico 4 Esteiras c/ Cavalete ",
+    "id": "1032464946",
+    "preco": 4850,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector Turbo Pão Com Cavalete Whp-300 Wictory",
+    "id": "969749784",
+    "preco": 13857,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector Turbo Pão Whp-120 Com Cavalete Wictory",
+    "id": "977907967",
+    "preco": 13996.7,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector Turbo Pão Whp-80 Com Cavalete Wictory",
+    "id": "977862722",
+    "preco": 12846.7,
+    "estoque": 0
+  },
+  {
+    "nome": "Forno Convector Turbo Pão Whp-80 Com Cavalete Wictory",
+    "id": "977869586",
+    "preco": 11896.7,
+    "estoque": 0
+  },
+  {
+    "nome": "Kit 05 Assadeiras Esteiras Formas 35x35 Lisa Forno Convector",
+    "id": "975936944",
+    "preco": 256.41,
+    "estoque": -1
+  },
+  {
+    "nome": "Kit 08 Assadeiras Esteiras Formas 35x35 Lisa Forno Convector",
+    "id": "973589612",
+    "preco": 378.9,
+    "estoque": -1
+  },
+  {
+    "nome": "Kit Forno Convector 5 Esteiras com Vapor e Cavalete Preto",
+    "id": "1032464858",
+    "preco": 5150,
     "estoque": 0
   }
 ]
